@@ -87,7 +87,7 @@ afterEvaluate {
             }
         }
         repositories {
-            maven { url myMavenRepoWriteUrl }
+            maven { url "https://mymavenrepo.com/repo/1TgVtL7hUVr3aNvteGCr/" }
         }
     }
 }

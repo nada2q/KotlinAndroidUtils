@@ -22,7 +22,7 @@ allprojects {
         mavenCentral()
         jcenter()
         maven { url "https://jitpack.io" }
-        maven { url myMavenRepoReadUrl }
+        maven { url "https://mymavenrepo.com/repo/1TgVtL7hUVr3aNvteGCr/" }
     }
 }
 
